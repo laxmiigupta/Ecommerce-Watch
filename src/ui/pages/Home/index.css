@@ -1,0 +1,36 @@
+
+
+
+.exporesection, .milunssec, .celebrity, .loveEarthnew, .museum-classic{
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.exporesection img{
+    height:342px ;
+    /* width: 600px; */
+    border-radius: 2rem;
+}
+/* .{
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+} */
+.milunssec img{
+    width: 100%;
+    border-radius: 2rem;
+}
+
+.loveEarthnew img {
+    width: 100%;
+    border-radius: 2rem;
+}
+
+.museum-classic{
+    padding-bottom: 30px;
+}
+.museum-classic img{
+    height:550px ;
+    width: 610px;
+    border-radius: 2rem;
+}

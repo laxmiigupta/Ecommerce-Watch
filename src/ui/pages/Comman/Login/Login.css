@@ -1,0 +1,42 @@
+/* Login.css */
+  .login-container {
+    background-color: #f9f9f9;
+    margin-top: 50px;
+    
+  }
+  
+  .login-form {
+    width: 400px;
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-field {
+    margin-bottom: 15px;
+  }
+  
+  .checkbox {
+    margin-bottom: 15px;
+  }
+  
+  .submit-button {
+    width: 100%;
+  }
+  
+  .text-center {
+    margin-bottom: 20px;
+  }
+  
+  /* Common styles */
+  a {
+    cursor: pointer;
+    color: blue;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
